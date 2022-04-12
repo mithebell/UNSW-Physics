@@ -1,0 +1,17 @@
+Description	
+Number of Runs	1
+Preset Time	60
+Pause Time	0
+Alarm Level	0
+High Voltage	950
+Step Voltage	0
+Volume	0
+
+Run	High		Elapsed
+Number	Voltage	Counts	Time	Date/Time
+1	950	8609	60	04/07/22 03:39:52 PM	
+2	950	11325	60	04/07/22 03:41:06 PM	
+3	950	3122	60	04/07/22 03:42:17 PM	
+4	950	8390	60	04/07/22 03:45:51 PM	
+5	950	11027	60	04/07/22 03:46:59 PM	
+6	950	2869	60	04/07/22 03:48:17 PM	
