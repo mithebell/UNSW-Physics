@@ -1,2 +1,2 @@
-# PHYS3112-Radiation-Fundamentals
-Jupyter Notebooks of the code used to analyse data for the Radiation Fundamentals experiment
+# UNSW physics
+Jupyter Notebooks of the code used to analyse data for UNSW higher year labs
